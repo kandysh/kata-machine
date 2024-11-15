@@ -1,0 +1,8 @@
+modules = ["nodejs-20"]
+run = "npx run generate"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "npx run generate"]
