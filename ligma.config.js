@@ -12,7 +12,7 @@ module.exports = {
                 // "Stack",
                 //"ArrayList",
                 //"MazeSolver",
-                "QuickSort",
+                //"QuickSort",
                 // "BTPreOrder",
                 // "BTInOrder",
                 // "BTPostOrder",
@@ -23,7 +23,7 @@ module.exports = {
                 // "Trie",
                 // "BFSGraphMatrix",
                 // "Map",
-                // "MinHeap",
+                "MinHeap",
         ],
 }
 
